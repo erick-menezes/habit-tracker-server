@@ -25,7 +25,6 @@
 -----------|----------|--------------------------------
 | title    | `string`   | Habit title
 | weekDays | `number[]` | Frequency of the habit (0 to 6)
--------------------------------------------------------
 
 #### Toggle a habit progress (complete/uncomplete)
 
@@ -34,7 +33,6 @@
 | Field    | Type     | Description 
 -----------|----------|--------------------------------
 | id       | `string`   | Habit id
--------------------------------------------------------
 
 ### Summary
 
@@ -51,7 +49,6 @@
 | Field    | Type     | Description 
 -----------|----------|--------------------------------
 | date     | `string` | Habit day that you want to search. Format example: 2023-01-23T14:00:00.000z
--------------------------------------------------------
 
 ## ⚙ Technologies
 
