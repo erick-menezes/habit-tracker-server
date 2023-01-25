@@ -34,12 +34,14 @@
 -----------|----------|--------------------------------
 | id       | `string`   | Habit id
 
+___
 ### Summary
 
 #### Get a summary of all day habits
 
 `GET /summary`
 
+___
 ### Day
 
 #### Get details of a habit day
